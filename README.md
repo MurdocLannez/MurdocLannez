@@ -1,9 +1,7 @@
 # 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-🎓 **Estudante do curso de Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por tecnologia, programação e soluções eficientes para qualquer problema!
+🎓 Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia, programação e soluções eficientes
 
----
 
 ## 🚀 Em busca de oportunidades
 
@@ -11,7 +9,6 @@ Atualmente estou em busca de oportunidades como **Suporte Técnico** ou **Progra
 
 > Também possuo **experiência com a utilização de sistema SAP** aplicado à rotina de controle de estoque no varejo.
 
----
 
 ## 🧠 Tecnologias que utilizo
 
@@ -24,7 +21,6 @@ Atualmente estou em busca de oportunidades como **Suporte Técnico** ou **Progra
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ## 🧭 O que estou explorando atualmente
 
@@ -32,7 +28,6 @@ Atualmente estou em busca de oportunidades como **Suporte Técnico** ou **Progra
 - Criação de aplicações web focadas em **praticidade**, **responsividade** e **experiência do usuário**
 - Adoção de **boas práticas de programação** e **padronização de código**
 
----
 
 ⭐ Obrigado por visitar meu perfil!
 
